@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since.<br>📚 I'm currently learning.<br>🎯 Goals: Software Developer<br>🎲 Games: Fortnite, GTA, and more.</p>
+<p align="left">✨ Fixing bugs.<br>📚 I'm currently learning.<br>🎯 Goals: Software Developer<br>🎲 Games: Fortnite, GTA, and more.</p>
 
 ###
 
