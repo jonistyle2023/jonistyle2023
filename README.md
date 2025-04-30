@@ -96,7 +96,7 @@
 <h3 align="center"> Other Tools and Technologies </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,postgres,prisma,dynamodb,express,redis,github,linux,md,materialui,nginx,mongodb,nextjs,nodejs,postman,react,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,obsidian,notion,linux,bash,kali,md,anaconda,latex,r,matlab,aws,azure,gcp,docker,kubernetes,fastapi,postman,ts,vue,nodejs,clion,idea,phpstorm,pycharm,webstorm&perline=14" />
   </a>
 </p>
 
