@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub! I'm Jonathan, aka Jonistyle – IT Engineer & Software Developer</h1>
+<h1 align="center">Welcome to my GitHub! I'm Jonathan – IT Engineer & Software Developer</h1>
 
 <div align="center"> 
   <a href="https://git.io/typing-svg">
@@ -9,8 +9,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonistyle2023&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonistyle2023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonistyle2023&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonistyle2023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">- Work, organization, teamwork and good study habits.<br>- I currently work on projects that solve personal challenges, focusing on creativity and problem-solving.</p>
+<p align="center">- Work, organization, teamwork and good study habits.<br>- I currently work on projects that solve personal challenges, focusing on creativity and problem-solving.</p>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Greetings from Salinas, Ecuador! I'm passionate about creating innovative solutions that combine functionality with engaging design. With strong development and design skills, I specialize in delivering exceptional user experiences through web and mobile applications.<br><br>I have been developing software since 2022, gaining experience in Full-Stack Development, UX/UI, and 3D Design. I am currently learning programming with a focus on Data Science, and I plan to work remotely or in-office in the future.</p>
+<p align="center">Greetings from Salinas, Ecuador! I'm passionate about creating innovative solutions that combine functionality with engaging design. With strong development and design skills, I specialize in delivering exceptional user experiences through web and mobile applications.<br><br>I have been developing software since 2022, gaining experience in Full-Stack Development, UX/UI, and 3D Design. I am currently learning programming with a focus on Data Science, and I plan to work remotely or in-office in the future.</p>
 
 ###
 
