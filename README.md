@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub! I'm Jonathan – IT Engineer & Software Developer</h1>
+<h1 align="left">Welcome to my GitHub! </h1>
 
 <div align="center"> 
   <a href="https://git.io/typing-svg">
