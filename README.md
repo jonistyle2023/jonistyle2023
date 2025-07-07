@@ -8,10 +8,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonistyle2023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jonistyle2023&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=4&order=3" height="150" alt="streak graph"  />
-</div>
+[<img align="left" width="390" alt="🦑" src="./github-metrics.svg">](#)
+[<img align="right" width="390" alt="🦑" src="./metrics.plugin.isocalendar.fullyear.svg">](#)
+[<img align="right" width="390" alt="🦑" src="./metrics.plugin.languages.details.svg">](#)
 
 ###
 
